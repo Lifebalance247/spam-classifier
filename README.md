@@ -1,5 +1,8 @@
 # 📧 Spam Email Classifier (Machine Learning Project)
 
+## 🌐 Live Demo
+Try the app here: https://your-app.streamlit.app
+
 ## 📌 Overview
 This project builds a machine learning model to classify SMS messages as **Spam** or **Not Spam** using Natural Language Processing (NLP) techniques.
 
