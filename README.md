@@ -34,3 +34,14 @@ Output:
 **Spam**
 
 ## 📂 Project Structure
+spam-classifier/
+│── spam_classifier.ipynb
+│── README.md
+
+## 📈 Future Improvements
+- Deploy as a web app using Streamlit
+- Improve model with advanced NLP techniques
+- Use larger datasets for better accuracy
+
+## 👤 Author
+LifeBalance247
